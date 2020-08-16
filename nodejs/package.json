@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "This is introduction to node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Apoorv Singh",
+  "license": "ISC",
+  "dependencies": {
+    "marvel-dc-name-generator": "^1.1.0"
+  }
+}
